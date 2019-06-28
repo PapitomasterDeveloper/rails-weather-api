@@ -27,6 +27,9 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
+# Seamless authentication solution for Rails API-only application based on JSON Web Tokens.
+gem 'knock'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
